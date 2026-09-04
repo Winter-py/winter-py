@@ -3,7 +3,7 @@
 **Senior Cloud Infrastructure & DevSecOps Engineer**  
 Automating secure cloud infrastructure, building high-performance CLI tooling, and bridging the gap between DevOps and security compliance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stevenowatemi/)
 [![Portfolio/Website](https://img.shields.io/badge/Website-Personal-181717?style=flat-square&logo=github)](https://github.com)
 
 ---
