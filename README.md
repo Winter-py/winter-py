@@ -30,7 +30,7 @@ Automating secure cloud infrastructure, building high-performance CLI tooling, a
 
 📜 Certifications & Learning Path
 
-- 🟩 GitHub Certified: Agentic AI Developer
+- 🟩 GitHub Certified: Agentic AI Developer (GH-600)
 
 - 🟨 AWS Certified: Security – Specialty (In Progress)
 
