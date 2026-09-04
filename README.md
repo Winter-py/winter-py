@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Steven 👋
 
-<!--
-**Winter-py/winter-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Cloud Infrastructure & DevSecOps Engineer**  
+Automating secure cloud infrastructure, building high-performance CLI tooling, and bridging the gap between DevOps and security compliance.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Portfolio/Website](https://img.shields.io/badge/Website-Personal-181717?style=flat-square&logo=github)](https://github.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Core Capabilities & Tech Stack
+
+```text
+  [ Infrastructure & IaC ]       [ DevSecOps & Software ]       [ Security & Compliance ]
+ ───────────────────────────    ───────────────────────────    ───────────────────────────
+   • AWS (EC2, VPC, IAM, KMS)     • Golang (CLI Systems Tools)   • ISO 27001 Ownership
+   • Terraform & Ansible          • TypeScript & Svelte          • Cyber Essentials / CE+
+   • Windows Server / .NET / IIS  • Python & Bash Scripting      • Intune & M365 Security
+   • MSSQL & Database Ops         • GitHub Actions Pipelines     • Network Hardening & PKI
