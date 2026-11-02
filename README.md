@@ -18,7 +18,7 @@ Automating secure cloud infrastructure, building high-performance CLI tooling, a
    • Windows Server / .NET / IIS  • Python & Bash Scripting      • Intune & M365 Security
    • MSSQL & Database Ops         • GitHub Actions Pipelines     • Network Hardening & PKI
 ```
-- Cloud & Infrastructure: AWS (Solo Manager), Hybrid Architecture, Terraform, Ansible, Windows Server/IIS, MSSQL.
+- Cloud & Infrastructure: AWS, Hybrid Architecture, Terraform, Ansible, Windows Server/IIS, MSSQL.
 
 - Observability & Monitoring: Prometheus (Metrics Collection), Grafana (Dashboards & Alerting), Wazuh (SIEM / Threat Detection / Log Management).
 
